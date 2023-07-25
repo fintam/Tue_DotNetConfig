@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TueNetConfigs": {
+      "commandName": "Project",
+      "commandLineArgs": "yeet=\"taco\""
+    }
+  }
+}
